@@ -23,8 +23,8 @@
 
 
 ## 📫 Let's Connect!  
-- GitHub: [Your GitHub](https://github.com/ShofiatuzZulfia)  
-- Email: [YourEmail@example.com](mailto:shofiatuzzulfia@gmail.com)  
+- GitHub: [ShofiatuzZulfia](https://github.com/ShofiatuzZulfia)  
+- Email: [shofiatuzzulfia@gmail.com](mailto:shofiatuzzulfia@gmail.com)
 
 
 ## ⚡ GitHub Streak Stats
